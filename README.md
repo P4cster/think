@@ -24,6 +24,8 @@ Es ist ein Architekturprojekt für Denkstrukturen, Klartext und Transferintellig
 Egal, ob du gerade erst Excel geöffnet hast oder bereits mit `CUBESET()` sprichst –  
 hier findest du deinen Pfad zum systemischen Excel-Denken.
 
+Bitte beachte, dass ich in diesem Repo mit den englischen Varianten der Formeln arbeite, da diese im internationalen Umfeld geläufig sind. Ebenfalls möchte ich hervorheben, dass die englische Variante Formeln zu schreiben anstelle eines Semikolons (;) ein normales Komma (,) verwendet. Also. Wenn du in den aufgezeigten Formeln ein Komma zur Parameterabtrennung siehst, tausche es in deinem Kopf einfach gegen ein Semikolon aus, wenn du mit der deutschen Version arbeitest.
+
 ---
 
 ### Aber warum das Ganze?
