@@ -34,7 +34,7 @@ Mit `TEXTSPLIT()`, `TEXTBEFORE()` und `TEXTAFTER()` wird Textverarbeitung präzi
 Kombiniert mit Arrayfunktionen und `TEXTJOIN()` entstehen **saubere, automatisierbare Ausgabestrukturen**, die das Reporting deutlich robuster machen.
 
 ### Kombination von Arrays, Lambda und allem was da sonst noch so ist
-Wir kommen so langsam an einen Punkt, an dem es nicht mehr möglich sein wird die inzwischen erreichte Komplexität anhand einzelner Formeln zu zeigen. Das was mir mein Leben enorm vereinfacht hat ist die Kombination von Arrays mit iterativer Logik der von LAMBDA unterstützen Formeln. Das ganze in Verbindung mit LET. Ein absoluter Traum.
+Wir nähern uns einem Punkt, an dem Komplexität nicht mehr anhand einzelner Formeln greifbar ist – sondern nur noch im Zusammenspiel aus Array-Logik, iterativer Struktur und funktionaler Kapselung. Einmal verstanden denkt man Excel völlig anders.
 
 ---
 
