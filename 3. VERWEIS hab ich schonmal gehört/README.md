@@ -3,8 +3,8 @@
 ## Was erwartet dich in diesem Kapitel?
 
 Excel hat sich verändert – und spätestens hier beginnt der Moment, in dem man das klassische Excel-Denken verlässt und in die Welt dynamischer Logik einsteigt.  
-Wo früher `VLOOKUP()` und `HLOOKUP()` als Standard galten, stehen heute **XLOOKUP**, **FILTER**, **SEQUENCE** oder **UNIQUE** bereit – leistungsfähiger, flexibler, strukturierter - kurz gesagt: Excel kann jetzt Arrays.
-Und das ist nicht nur gut so, sondern eröffnet ein völlig neues Spielfeld in der Welt der Tabellenkalkulation!
+Wo früher `VLOOKUP()` und `HLOOKUP()` als Standard galten, stehen heute **XLOOKUP**, **FILTER**, **SEQUENCE** oder **UNIQUE** bereit – leistungsfähiger, flexibler, strukturierter - kurz gesagt: Excel kann jetzt Arrays und das verändert alles.
+Das eröffnet ein völlig neues Spielfeld in der Welt der Tabellenkalkulation!
 
 Dieses Kapitel ist kein bloßes Upgrade – es ist der Einstieg in eine neue Art der Modellierung: modular, automatisierbar, fehlertolerant. Eine Art Paradigmenwechsel, die Excel endgültig aus den Kinderschuhen geholt hat.
 
