@@ -11,7 +11,7 @@ Dieses Kapitel ist kein bloßes Upgrade – es ist der Einstieg in eine neue Art
 ### Indexierungslogik verstehen  
 Wer Excel beherrschen will, muss verstehen, wie Daten strukturiert referenziert werden.  
 `XLOOKUP()` und `XMATCH()` lösen nicht einfach alte Funktionen ab – sie sind vielmehr die bekannten Funktionen auf Steroiden:
-Wesentlich möchtiger, schneller, umfassender und klüger als ihre Vorgänger.
+Wesentlich mächtiger, schneller, umfassender und klüger als ihre Vorgänger.
 
 
 ### Lookup-Kombinationen als Strukturprinzip  
