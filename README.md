@@ -29,7 +29,7 @@ hier findest du deinen Pfad zum systemischen Excel-Denken.
 ### Aber warum das Ganze?
 
 Über die Jahre habe ich beobachtet, dass vielen Anwendern der Umgang mit Syntax schwerfällt – insbesondere, diese nicht nur zu lesen, sondern auch sicher und nachhaltig umzusetzen.  
-Expert:innen hingegen beherrschen die Syntax meist problemlos, tun sich aber schwer damit, sie für „Normal-Sterbliche“ greifbar zu machen.
+Experten hingegen beherrschen die Syntax meist problemlos, tun sich aber schwer damit, sie für „Normal-Sterbliche“ greifbar zu machen.
 
 Dieses Repository will genau diese Lücke schließen:  
 Eine offene Lernquelle, die sich mit den wichtigsten Funktionen beschäftigt, deren Anwendung verständlich macht und zeigt, dass Excel weit mehr ist als nur ein Listenpunkt im Bewerbungsabschnitt „Sonstiges“.
