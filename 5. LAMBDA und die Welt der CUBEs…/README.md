@@ -7,14 +7,14 @@ Willkommen im Maschinenraum von Excel – dort, wo Funktionslogik auf Datenmodel
 Was hier beginnt, ist **kein Formelkatalog** mehr. Es ist der Einstieg in formale Modellbildung, rekursive Verarbeitung, Datenstrukturierung und multidimensionale Auswertung.
 
 Dieses Kapitel ist nicht dafür da, um einzelne Funktionen zu lernen. Es ist dafür da, Systeme zu bauen, denn HINTER Excel gibt es NOCH EIN Excel. Die mystische der Datenmodelle. Mit eigener Sprache (genannt DAX), eigener Logik, Measures und was weiß ich.
-Das ist aber gar nicht das, worauf wir uns hier konzentrieren wollen wollen. Mit den Cubefunktionen haben wir nämlich die Möglichkeit von unserem Workbook aus auf das Datenmodell zuzugreifen. Und umgehen damit sämtliche Restriktionen, die eventuell mit Pivottabellen einhergehen.
-Dadurch, dass Cube-Funktionen ganz "normale" Funktionen sind, können wir sie, bis zu einem gewissen Grad, mit Arrays und anderen Formeln kombinieren. Wir können Datenmodell iterativ durchlaufen und so Informationen automatisiert abrufen.
+Das ist aber gar nicht das, worauf wir uns hier konzentrieren wollen. Mit den Cubefunktionen haben wir nämlich die Möglichkeit von unserem Workbook aus auf das Datenmodell zuzugreifen. Und umgehen damit sämtliche Restriktionen, die eventuell mit Pivottabellen einhergehen.
+Cube-Funktionen sind – zumindest technisch – ganz normale Excel-Funktionen. Und genau deshalb lassen sie sich bis zu einem gewissen Grad mit Arrays und anderen Formelstrukturen kombinieren. Wir können Datenmodell iterativ durchlaufen und so Informationen automatisiert abrufen.
 Hier wird uns vermutlich das ein oder andere mal der #GETTING_DATA Error über den Weg laufen.
 
 ### Funktionale Modellierung – LAMBDA 2.0  
 Was als parametrisierte Funktion begann, wird hier zu einem logischen Framework.  
 Mit `LAMBDA()` lassen sich jetzt rekursive Prozesse aufbauen, wiederverwendbare Funktionsmodule konstruieren und komplexe Logik kapseln.  
-Das ist kein „Nice to have“, das ist der Punkt, an dem Excel beginnt, Programmstruktur zu imitieren – innerhalb von Zellen. Hier darfst du dir vorstellen, wie dein Kopf anfängt zu dampfen.
+Das ist kein „Nice to have“, das ist der Punkt, an dem Excel beginnt, Programmstruktur zu imitieren – innerhalb von Zellen. An dieser Stelle beginnt der Moment, an dem der Kopf raucht – im besten Sinne.
 
 ### MAP, REDUCE, SCAN – Denken in Listen  
 Mit `MAP()`, `REDUCE()` und `SCAN()` bricht Excel endgültig die Zellenlogik auf.  
