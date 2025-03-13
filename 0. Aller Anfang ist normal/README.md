@@ -4,7 +4,7 @@
 
 Bevor wir uns mit komplexen Formeln, dynamischen Funktionen oder mehrdimensionalen Datenmodellen beschäftigen, braucht es eine saubere Grundlage – **nicht nur technisch, sondern auch gedanklich**.
 
-Dieser Abschnitt widmet sich den **systemischen Basiskonzepten**, die Excel-Anwendungen strukturierbar, skalierbar und wartbar machen. Denn wer Excel verstehen will, muss lernen, **in Strukturen zu denken, nicht in Zellen**.
+Dieser Abschnitt widmet sich den **grundlegenden Strukturprinzipien**, die Excel-Anwendungen skalierbar und wartbar machen. Denn wer Excel verstehen will, muss lernen, **in Strukturen zu denken, nicht in Zellen**.
 
 Hier geht es nicht um bunte Diagramme oder verschachtelte Wenn-Konstruktionen, sondern um das, was im Hintergrund die Stabilität bringt: **Sauberkeit in der Datenbasis, Klarheit in der Typisierung und konsequentes Modellverständnis**.
 
