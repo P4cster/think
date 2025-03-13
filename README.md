@@ -42,9 +42,8 @@ Ziel ist eine strukturierte Denkweise, die die Arbeit mit Excel nicht nur einfac
 
 ## 📚 Inhaltsstruktur – Lernstufen & Formeldenkmuster
 ### ⬜ 0. Aller Anfang ist normal
-- Benutzerdefinierte Zellformatierung
 - Normalisierung von Daten
-- Datentypen in Excel
+- Datentypen vs. Zellformatierung
 - Tabellen vs. Zellen
 - Listen und Arrays
 - Namensmanager
