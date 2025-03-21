@@ -2,7 +2,7 @@
 # 📄 Formelstruktur: `=SUM()`
 
 ## 🔹 Syntax
-`=SUM(Zahl1, [Zahl2], ...`
+`=SUM(Zahl1, [Zahl2], ...)`
 
 ### Parameter
 
@@ -33,6 +33,19 @@
 
 # Summiert eine Spalte einer definierten Tabelle
 =SUM(tabTest[Umsatz])
+
+# Summe zum Zählen aller Werte, die im Bereich A1:A150 über `5` sind (kürzere Alternative zu `COUNTIF`)
+## Aufgepasst: Hier wird nicht der Bereich summiert, sondern das Vorkommen ausgegeben
+=SUM(--(A1:A150>5))
+```
+
+*Doppelte Negierung im letzten Beispiel näher erläutert (kleinerer Bereich):
+```
+=SUM(--(A1:A5>5))
+=SUM(--({10, 3, 10, 3, 10}>5))
+=SUM(--({TRUE, FALSE, TRUE, FALSE, TRUE}))
+=SUM({1,0,1,0,1})
+=3
 ```
 
 ## 📊 Was kommt dabei raus?
