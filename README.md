@@ -75,9 +75,7 @@ _Basisformeln effizient und strukturiert anwenden_
 | Funktion | Beschreibung | Typischer Nutzen |
 |---------|----------------|------------------|
 | `COUNTIF()`, `SUMIF()` | Bedingte Aggregation | Häufige Analyseaufgaben |
-| `IFERROR()` | Fehlerbehandlung | Robustere Formellogik |
 | `VLOOKUP()`, `HLOOKUP()` | Klassische Lookup-Mechanismen | Datenbezug aus einfachen Tabellen |
-| `CONCATENATE()` | Strings kombinieren | Textausgabe in Berichten |
 | `TEXTJOIN()` | Komplexere Stringkombination mit Trennzeichen | Reporting-Vereinfachung |
 | `MATCH()`, `INDEX()` | Lookup-Kombination ohne SVERWEIS | Leistungsfähiger als klassische Verweise |
 
