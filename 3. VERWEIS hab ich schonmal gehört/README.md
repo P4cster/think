@@ -8,6 +8,9 @@ Das eröffnet ein völlig neues Spielfeld in der Welt der Tabellenkalkulation!
 
 Dieses Kapitel ist kein bloßes Upgrade – es ist der Einstieg in eine neue Art der Modellierung: modular, automatisierbar, fehlertolerant. Eine Art Paradigmenwechsel, die Excel endgültig aus den Kinderschuhen geholt hat.
 
+### Von Formeln zu Funktion
+Zugegeben. Bisher hat sich dieses Repo nicht großartig von anderen Lernquellen unterschieden. Es gibt ein paar Markdown-Dateien, die versuchen ein staubtrockenes Thema vereinzelt mit ein bisschen Humor zu vermitteln. In dieser Lektion kommen, wie schon gesagt, Arrays hinzu. Spätestens hier wird iterative Logik, also automatische Berechnungen Zelle für Zelle durchführen, ohne eine Formel nach unten ziehen zu müssen, einsetzbar und greifbar. Hier beginnt der Moment, in dem sich Excel vom Tool zur Sprache wandelt – und du vom Nutzer zum Systemarchitekten.
+
 ### Indexierungslogik verstehen  
 Wer Excel beherrschen will, muss verstehen, wie Daten strukturiert referenziert werden.  
 `XLOOKUP()` und `XMATCH()` lösen nicht einfach alte Funktionen ab – sie sind vielmehr die bekannten Funktionen auf Steroiden:
